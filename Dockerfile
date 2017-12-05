@@ -1,6 +1,6 @@
 FROM genieacs-base
 
-MAINTAINER LUXNETWORK Engineering <eng@luxnetwork.lu>
+MAINTAINER Jaime Vélez - Ingeniero Télemático.
 
 # Expose GenieACS FS port
 EXPOSE 7567
